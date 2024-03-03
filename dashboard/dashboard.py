@@ -5,7 +5,7 @@ from matplotlib.ticker import MaxNLocator
 import seaborn as sns
 import streamlit as st
 
-all_data = pd.read_csv('./dashboard/data.csv')
+all_data = pd.read_csv('./data.csv')
 
 st.header("Air Quality Data Analysis", divider="rainbow")
 st.subheader("Temperatur")
