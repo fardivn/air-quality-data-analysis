@@ -1,5 +1,8 @@
 # Air Quality Data Analysis
 
+## Streamlit Deployed Link Website
+https://fardivn-air-quality-data-analysis.streamlit.app/
+
 ## Setup Environment
 Jalankan perintah ini untuk mempersiapkan enviroment:
 ```
